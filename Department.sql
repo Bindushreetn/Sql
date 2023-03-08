@@ -11,4 +11,4 @@ DepartmentId, MAX(Salary)
 FROM
 Employee
 GROUP BY DepartmentId
-)
+) 
